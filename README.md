@@ -18,4 +18,5 @@ log파일을 읽어와, 필요한 데이터만 수집 처리하여 이를 시각
 
 ## 결과물
 CAN 데이터에서 전처리 후 추출하여 시각화한 결과는 다음의 이미지와 같음.
+
 <img src="/img/can_process_result.png" width="300" height="300">
